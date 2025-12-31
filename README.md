@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman Singh!
 
-Welcome to my GitHub! I'm a B.Tech 2nd year student at **VIT-AP University**, passionate about **Data Analytics**, **Data Visualization**, and building insightful solutions using **Python**.
+Welcome to my GitHub! I'm a B.Tech 3rd year student at **Vellore Institute of Technology, Ap**, passionate about **Data Analytics**, **Data Visualization**, and building insightful solutions using **Python**.
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
